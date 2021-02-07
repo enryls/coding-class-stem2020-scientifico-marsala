@@ -1,5 +1,3 @@
-loop = "S"
-
 print(
     """Benvenuto al programma calcolatrice!
     Funzioni disponibili:
